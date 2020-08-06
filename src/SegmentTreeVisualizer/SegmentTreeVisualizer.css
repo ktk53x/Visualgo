@@ -1,0 +1,12 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+  }
+  
+  .array-box {
+    width: 50px;
+    height: 50px;
+    outline: 3px solid black;
+    padding: 0px;
+    display: inline-grid;
+  }
